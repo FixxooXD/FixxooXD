@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rajpalmal40@gmail.com**
 
-- ⚡ Fun fact **I love Gaming and anime**
+- ⚡ **I love Gaming and anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
