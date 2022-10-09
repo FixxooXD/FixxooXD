@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Javascript projects**
 
-- 🌱 I’m currently learning **Javascript,java**
+- 🌱 I’m currently learning **Javascript, java**
 
 - 📫 How to reach me **rajpalmal40@gmail.com**
 
