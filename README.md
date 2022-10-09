@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fixxooxd&show_icons=true&locale=en" alt="fixxooxd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fixxooxd&" alt="fixxooxd" /></p>
+
+[![@fixxooxd's Holopin board](https://holopin.io/api/user/board?user=fixxooxd)](https://holopin.io/@fixxooxd)
